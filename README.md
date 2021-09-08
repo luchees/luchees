@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/luchees?label=Follow&style=social)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-van-den-abbeele/)](https://www.linkedin.com/in/lucas-van-den-abbeele/)
+<a href="https://stackoverflow.com/users/2443665/lucasz"><img src="https://stackoverflow.com/users/flair/2443665.png" width="208" height="58" alt="profile for Lucasz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lucasz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 - 🇹🇭 I'm currently working abroad in Thailand as a DevOps Engineer. 
 - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"> Certified AWS Developer using Serverless and CDK in production.
