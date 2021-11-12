@@ -7,7 +7,7 @@
 
 - 🇹🇭 I'm currently working abroad in Thailand as a DevOps Engineer. 
 - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"> Certified AWS Developer using Serverless and CDK in production.
-- 📜 I’m currently going for AWS DevOps Professional certification to up my AWS game.
+- 📜 Got my AWS DevOps Professional certification and AWS Developer Associate certification.
 
 ## ⚡ Technologies
 
