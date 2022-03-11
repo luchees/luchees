@@ -6,7 +6,7 @@
 <a href="https://stackoverflow.com/users/2443665/lucasz"><img src="https://stackoverflow.com/users/flair/2443665.png" width="208" height="58" alt="profile for Lucasz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lucasz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 - 🇹🇭 I'm currently working abroad in Thailand as a DevOps Engineer. 
-- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"> Certified AWS Developer using Serverless and CDK in production.
+- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"> Certified AWS Engineer using Serverless and CDK in production.
 - 📜 Got my AWS DevOps Professional certification and AWS Developer Associate certification.
 
 ## ⚡ Technologies
